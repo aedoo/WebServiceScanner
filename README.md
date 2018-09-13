@@ -6,7 +6,7 @@
 
 扫描结果示例：
 
-![](https://raw.githubusercontent.com/aedoo/WebServiceScanner/master/result.png)
+![](https://raw.githubusercontent.com/aedoo/WebServiceScanner/master/final.png)
 
 
 
